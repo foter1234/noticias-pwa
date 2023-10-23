@@ -27,7 +27,8 @@ main{
 }
 .article{
     padding: 1rem;
-    box-shadow: 3px 3px 3px 4px rgb(216,216, 216);
+    box-shadow: 3px 3px 3px 4px rgb(131, 130, 130);
+    
 }
 .article img{
     width: 100%;
